@@ -22,4 +22,4 @@ solution(Config,[Move|MoveOthers]):-
 
 
 
-
+% length(X, 7), solution([w, w, w, w], X). 
