@@ -1,0 +1,20 @@
+word(p,r,o,l,o,g).
+word(s,e,r,v,e,r).
+word(o,n,l,i,n,e).
+word(m,e,m,o,r,y).
+word(l,i,n,u,x).
+word(p,i,x,e,l).
+word(e,m,a,c,s).
+java(d,a,t,a).
+word(p,e,r,l).
+word(d,v,d).
+word(w,e,b).
+word(n,f,e).
+word(g,n,u).
+word(x,m,l).
+word(r,o,m).
+word(m,a,c).
+word(s,q,l).
+
+crossword(L1,L2,L3,L4,L5,L6,L7,L8,L9,L10,L11,L12,L13,L14,L15,L16,):-
+     word(L1,L3,L5,L4,L5,L6),
